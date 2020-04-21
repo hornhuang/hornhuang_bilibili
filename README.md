@@ -1,7 +1,38 @@
-# DatabaseNote
-my database note ，you can get or watch  my note at this repository.
+## Hello World @ 圆号本昊
+
+- 知识、分享，不懈努力，只为遇见更好的你
+
+![](https://www.luxurysociety.com/media/uploads/thumbnails/filer_public_thumbnails/d4/9b/d49b9485-0e17-4290-8fd3-18a5e0037f13/cover_bilibili.jpg__1024x450_q85_crop_subsampling-2_upscale.jpg)
 
 
-# Content
 
-- [磁盘块数之 B+ 树.md](https://github.com/FishInWater-1999/DatabaseNote/blob/master/%E7%A3%81%E7%9B%98%E5%9D%97%E6%95%B0%E4%B9%8B%20B%2B%20%E6%A0%91.md)
+## 个人站点
+
+- 关注我的个人站点惊喜连连呦~
+
+  | Nick     | 门牌号                                                       |
+  | -------- | ------------------------------------------------------------ |
+  | bilibili | [https://space.bilibili.com/262075972](https://space.bilibili.com/262075972) |
+  | 头条     | [https://www.ixigua.com/home/109283628634](https://www.ixigua.com/home/109283628634) |
+  | 个人博客 | [https://fishinwater-1999.github.io/](https://fishinwater-1999.github.io/) |
+  | 掘金     | [https://juejin.im/user/5d00b2ee6fb9a07ef5622eed/posts](https://juejin.im/user/5d00b2ee6fb9a07ef5622eed/posts) |
+  | 简书     | [https://www.jianshu.com/u/dfdd57aee7df](https://www.jianshu.com/u/dfdd57aee7df) |
+  | CSDN     | [https://blog.csdn.net/qq_43377749](https://blog.csdn.net/qq_43377749) |
+  | 博客园   | [https://www.cnblogs.com/yuanhao-1999/](https://www.cnblogs.com/yuanhao-1999/) |
+  |          |                                                              |
+
+## 遇见我
+
+- 遇见更好的自己
+
+  ![]()
+
+
+
+## Donation
+
+- 如果我的分享对你有帮助，欢迎赞赏鼓励哟~
+
+- 一块钱、几毛钱，甚至几分钱，都是对对我分享的最大肯定！
+
+  
