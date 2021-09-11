@@ -28,8 +28,12 @@
 
 - 如果我的分享对你有帮助，欢迎赞赏鼓励哟~
 
-![](https://user-gold-cdn.xitu.io/2020/4/21/1719abe2c38b7610?w=375&h=375&f=png&s=73709)
-![](https://user-gold-cdn.xitu.io/2020/4/21/1719abe3c9ee7dd1?w=375&h=375&f=jpeg&s=90147)
+<table>
+  <tr>
+    <th>![](https://github.com/hornhuang/PictureRepository/blob/master/hornhuang_biliibi/ali_pay.jpg)</th>
+    <th>![](https://github.com/hornhuang/PictureRepository/blob/master/hornhuang_biliibi/wechat_pay.jpg)</th>
+  </tr>
+</table>
 
 </br>
 
