@@ -1,6 +1,6 @@
 # # 黎明韭菜@BiliBili
 
-知识、分享，不懈努力，只为遇见更好的你
+知识、分享，不懈努力，只为遇见更好的你 🚀 🚀
 
 [![](https://github.com/hornhuang/PictureRepository/blob/master/hornhuang_github_io/hornhuang_github_io_bac.png)](https://hornhuang.github.io/#/?pg=index&)
 
