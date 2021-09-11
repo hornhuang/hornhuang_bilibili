@@ -2,9 +2,9 @@
 
 知识、分享，不懈努力，只为遇见更好的你
 
-- 个人站点更新啦，更多内容快来看看吧～ [hornhuang.github.io](https://hornhuang.github.io/#/?pg=index&)
-
 [![](https://github.com/hornhuang/PictureRepository/blob/master/hornhuang_github_io/hornhuang_github_io_bac.png)](https://hornhuang.github.io/#/?pg=index&)
+
+- 个人站点更新啦，更多内容快来看看吧～ [hornhuang.github.io](https://hornhuang.github.io/#/?pg=index&)
 
 </br>
 
