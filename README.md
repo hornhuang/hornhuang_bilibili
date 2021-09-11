@@ -1,12 +1,14 @@
-## 黎明韭菜@BiliBili
+# # 黎明韭菜@BiliBili
 
 - 知识、分享，不懈努力，只为遇见更好的你
 
-![](https://www.luxurysociety.com/media/uploads/thumbnails/filer_public_thumbnails/d4/9b/d49b9485-0e17-4290-8fd3-18a5e0037f13/cover_bilibili.jpg__1024x450_q85_crop_subsampling-2_upscale.jpg)
+- 个人站点更新啦，更多内容快来看看吧～ [](https://hornhuang.github.io/#/?pg=index&)
+
+[![](https://github.com/hornhuang/PictureRepository/blob/master/hornhuang_github_io/hornhuang_github_io_bac.png)]()
 
 </br>
 
-## 个人站点
+# # 个人站点
 
 - 关注我的个人站点惊喜连连呦~
 
@@ -22,7 +24,7 @@
 
 </br>
 
-## Donation
+# # Donation
 
 - 如果我的分享对你有帮助，欢迎赞赏鼓励哟~
 
@@ -31,15 +33,13 @@
 
 </br>
 
-## 关于我
+# # 预告
 
-- 个人站点更新啦，更多内容快来看看吧～ [](https://hornhuang.github.io/#/?pg=index&)
-
-[![](https://github.com/hornhuang/PictureRepository/blob/master/hornhuang_github_io/hornhuang_github_io_bac.png)]()
+- 选架构就用 MVVM ？
 
 </br>
 
-## MIT License
+# # MIT License
 
 Copyright (c) 2020 FishInWater-1999
 
