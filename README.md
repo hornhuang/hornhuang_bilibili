@@ -16,7 +16,7 @@
 | -------- | ------------------------------------------------------------ |
 | bilibili | [https://space.bilibili.com/262075972](https://space.bilibili.com/262075972) |
 | 头条     | [https://www.ixigua.com/home/109283628634](https://www.ixigua.com/home/109283628634) |
-| 个人博客 | [https://fishinwater-1999.github.io/](https://fishinwater-1999.github.io/) |
+| 个人站点 | [hornhuang.github.io](https://hornhuang.github.io/#/?pg=index&) |
 | 掘金     | [https://juejin.im/user/5d00b2ee6fb9a07ef5622eed/posts](https://juejin.im/user/5d00b2ee6fb9a07ef5622eed/posts) |
 | 简书     | [https://www.jianshu.com/u/dfdd57aee7df](https://www.jianshu.com/u/dfdd57aee7df) |
 | CSDN     | [https://blog.csdn.net/qq_43377749](https://blog.csdn.net/qq_43377749) |
