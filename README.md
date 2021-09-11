@@ -30,8 +30,8 @@
 
 <table>
   <tr>
-    <th>![](https://github.com/hornhuang/PictureRepository/blob/master/hornhuang_biliibi/ali_pay.jpg)</th>
-    <th>![](https://github.com/hornhuang/PictureRepository/blob/master/hornhuang_biliibi/wechat_pay.jpg)</th>
+    <th><img src="https://github.com/hornhuang/PictureRepository/blob/master/hornhuang_biliibi/ali_pay.jpg" /></th>
+    <th><img src="https://github.com/hornhuang/PictureRepository/blob/master/hornhuang_biliibi/wechat_pay.jpg" /></th>
   </tr>
 </table>
 
