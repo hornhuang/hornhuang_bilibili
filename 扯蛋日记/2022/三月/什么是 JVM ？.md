@@ -6,7 +6,7 @@ JVM 有针对不同系统的特定实现（Windows，Linux，macOS），目的�
 
 除了我们平时最常用的 HotSpot VM 外，还有 J9 VM、Zing VM、JRockit VM 等 JVM 。维基百科上就有常见 JVM 的对比：[Comparison of Java virtual machines](https://en.wikipedia.org/wiki/Comparison_of_Java_virtual_machines) ，感兴趣的可以去看看。并且，你可以在 [Java SE Specifications](https://docs.oracle.com/javase/specs/index.html) 上找到各个版本的 JDK 对应的 JVM 规范。
 
-
+JAVA 面试 JVM 怎么答满分？JVM 的作用是什么？
 
 今天给大家带来一道
 java必考面试题
